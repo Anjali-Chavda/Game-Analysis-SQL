@@ -1,2 +1,0 @@
-*.MSSQL linguist-detectable=true
-*.TSQL linguist-detectable=false
